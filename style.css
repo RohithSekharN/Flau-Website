@@ -6,7 +6,7 @@
 html,body{
     width: 100vw;
     height: 200vh;
-    overflow: hidden;
+    /* overflow: hidden; */
     background: #a0a0a0;
 }
 nav{
